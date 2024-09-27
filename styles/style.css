@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    width: 80%;
+    width: 96%;
     margin: 0 auto;
     background-color: rgb(20, 16, 58);
     padding: 0 20px 20px 20px;
@@ -13,12 +13,20 @@ body {
 }
 
 h1 {
-    color: aquamarine;
+    color: rgb(255, 255, 255);
     font-size: 60px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
     text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
 }
 
 p,
@@ -32,4 +40,8 @@ li {
 img {
     display: block;
     margin: 0 auto;
+}
+
+.link-contact{
+    color: antiquewhite;
 }
