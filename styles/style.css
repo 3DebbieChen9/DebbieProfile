@@ -23,7 +23,7 @@ h1 {
 
 h2 {
     color: white;
-    font-size: 30px;
+    font-size: 44px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
@@ -32,9 +32,29 @@ h2 {
 p,
 li {
     color: aliceblue;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 2;
     letter-spacing: 1px;
+}
+
+.p-place {
+    text-align: left;
+    color:beige;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.em-author {
+    font-style: italic;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.li-second {
+    font-size: 18px;
+    color: rgb(180, 180, 180)
 }
 
 img {
@@ -43,5 +63,5 @@ img {
 }
 
 .link-contact{
-    color: antiquewhite;
+    color: aliceblue;
 }
